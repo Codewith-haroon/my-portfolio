@@ -1,3 +1,3 @@
 # my-portfolio
-This is my first Git Repository
-Author - HAROON RASEED
+This is my first Git Repository.
+Author - Haroon Raseed
